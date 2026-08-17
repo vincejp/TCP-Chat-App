@@ -2,13 +2,13 @@
 # Project 2B: Networking Fall 2024
 
 ## Usage
-To run the project, execute the following command:
+To run the client, execute the following command:
 ```bash
 Usage: python3 server.py <host name or ip> <port-num>
 ```
 
 ## Register client with server
-To register the client with the server, which should be the first step in running the program
+To register the client with the server, which should be the first step in running the program:
 ```bash
 <user_name> <channel_one> <channel_two>, etc
 ```
@@ -20,6 +20,6 @@ To send a direct message to a user, enter @, then the user's name, then a space,
 ```
 
 ## Channel message
-To send a message to a channel
+To send a message to a channel:
 ```bash
 `#<channel> <message>`
