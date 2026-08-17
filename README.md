@@ -1,11 +1,13 @@
-# TCP Chat App
 # Project 2B: Networking Fall 2024
 
 ## Usage
-To run the project, execute the following command:
+To run the server, execute the following command:
 ```bash
 Usage: python3 server.py <host name or ip> <port-num>
 ```
+To run the client, execute the following command:
+```bash
+Usage: python3 client.py server.py <port-num>
 
 ## Register client with server
 To register the client with the server, which should be the first step in running the program
